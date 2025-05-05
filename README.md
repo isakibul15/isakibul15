@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on developing AI agents that can perform intelligent decision-making, automate routine tasks, and enhance user interaction experiences using LLMs and reinforcement learning.<br><br>👯 I’m looking to collaborate with AI-focused companies and research teams working on cutting-edge applications in autonomous systems, generative AI, or AI in healthcare and education.<br><br>🤝 I’m looking for help with automating real-world problems, especially in the areas of intelligent customer support, workflow optimization, and data-driven decision systems.<br><br>🌱 I’m currently learning advanced concepts in AI automation, including LangChain, AutoGPT architectures, multi-agent collaboration, and real-time system integration.<br><br>💬 Ask me about AI agent design, machine learning pipelines, prompt engineering, or integrating LLMs into production environments.<br><br>⚡ Fun fact: I once built a chatbot that could give emotional support using sentiment-aware conversation strategies—and people thought it was a real human!
+🔭 Currently building AI agents using LLMs and reinforcement learning to automate tasks and enhance interactions.
+👯 Open to collaborations with AI-driven companies in generative and applied AI domains.
+🤝 Seeking support in automating workflows, customer support, and decision-making systems.
+🌱 Exploring LangChain, AutoGPT, multi-agent systems, and real-time AI integration.
+💬 Ask me about building AI pipelines, agent design, or deploying LLMs in production.
+⚡ Fun fact: I built a chatbot so human-like, it once passed as a therapist in testing!
 
 
 ## 🌐 Socials:
